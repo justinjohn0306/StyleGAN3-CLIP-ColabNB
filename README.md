@@ -16,4 +16,4 @@ This notebook uses work made by [Katherine Crowson] (https://twitter.com/RiversH
 
 StyleGAN3 was created by NVIDIA. [Visit here](https://github.com/NVlabs/stylegan3)
 
-CLIP (Contrastive Language-Image Pre-Training) is a model made by OpenAI. For more info head over [here](https://github.com/openai/CLIP).
+CLIP (Contrastive Language-Image Pre-Training) is a model made by OpenAI. For more info head over [Visit here](https://github.com/openai/CLIP).
