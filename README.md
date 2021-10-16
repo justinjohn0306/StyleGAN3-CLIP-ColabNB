@@ -9,10 +9,10 @@ Google Colab notebook for NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based 
 
 ---
 
-This notebook uses work made by [Katherine Crowson] (https://twitter.com/RiversHaveWings)(https://github.com/crowsonkb).
+This notebook uses work made by [Katherine Crowson] [Visit here](https://twitter.com/RiversHaveWings)(https://github.com/crowsonkb).
 
 
-[nshepperd] (https://twitter.com/nshepperd1)(https://github.com/nshepperd).
+[nshepperd] (https://twitter.com/nshepperd1)[Visit here](https://github.com/nshepperd).
 
 StyleGAN3 was created by NVIDIA. [Visit here](https://github.com/NVlabs/stylegan3)
 
