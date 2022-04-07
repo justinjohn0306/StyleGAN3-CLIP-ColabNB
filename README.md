@@ -1,7 +1,7 @@
 # StyleGAN3-CLIP-ColabNB
 Google Colab notebook for NVIDIA's StyleGAN3 and OpenAI's CLIP for a text-based guided image generation.
 
-<a href="https://colab.research.google.com/github/justinjohn0306/StyleGAN3-CLIP-ColabNB/blob/main/StyleGAN3%2BCLIP.ipynb">
+<a href="https://colab.research.google.com/github/justinjohn0306/StyleGAN3-CLIP-ColabNB/blob/main/StyleGAN3%2BCLIP_v2.ipynb">
 <img src="https://colab.research.google.com/assets/colab-badge.svg"
      alt="Open in Colab"
 />
